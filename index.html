@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <link rel="shortcut icon" href="./assets/essentials/favicon.png" type="image/x-icon">
+  <link rel="stylesheet" href="./stylesheets/reset.css">
+  <link rel="stylesheet" href="./stylesheets/index.css">
+  <script type="module" src="./scripts/index.js" defer></script>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <div id="logo">
+        <div id="symbol"></div>
+        <p id="logotype">{{NICKNAME}}</p>
+      </div>
+      <nav>
+        <ul id="nav">
+          <li><a href="#works">{{NAV_WORKS}}</a></li>
+          <li><a href="#contacts">{{NAV_CONTACTS}}</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <article id="works">
+      <div class="wrap">
+        <h1>{{NAV_WORKS}}</h1>
+        <div id="works-list">
+          <div class="list"></div>
+          <div class="list"></div>
+          <div class="list"></div>
+          <div class="list"></div>
+        </div>
+      </div>
+    </article>
+    <article id="contacts">
+      <div class="wrap">
+        <h1>{{NAV_CONTACTS}}</h1>
+        <div class="contact">
+          <div>
+            <div>{{TEXT_EMAIL}}</div>
+            <div id="email"><p>{{EMAIL}}</p></div>
+          </div>
+          <div>
+            <div>{{TEXT_SNS}}</div>
+            <div id="sns"></div>
+          </div>
+        </div>
+      </div>
+    </article>
+  </main>
+  <footer>
+    <div class="wrap">
+      <p>&copy; {{YEAR}}. {{NICKNAME}} All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
