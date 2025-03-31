@@ -23,8 +23,6 @@ export default {
     list: [
       { name: "", src: "250320-protected-intensity-LOW-V2.png" },
       { name: "", src: "blank.png" },
-      { name: "", src: "blank.png" },
-      { name: "", src: "blank.png" },
     ],
   },
 };
