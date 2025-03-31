@@ -21,7 +21,7 @@ export default {
     dir: "./assets/portfolio",
     columns: 4,
     list: [
-      { name: "", src: "250320-protected-intensity-LOW-V2" },
+      { name: "", src: "assets/portfolio/250320-protected-intensity-LOW-V2.png" },
       { name: "", src: "blank.png" },
     ],
   },
