@@ -22,7 +22,7 @@ export default {
     columns: 4,
     list: [
       { name: "", src: "250320-protected-intensity-LOW-V2.png" },
-      { name: "", src: "assets/portfolio/푸름-protected-intensity-LOW-V2.png" },
+      { name: "", src: "푸름-protected-intensity-LOW-V2.png" },
       { name: "", src: "blank.png" },
     ],
   },
