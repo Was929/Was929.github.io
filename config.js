@@ -21,9 +21,11 @@ export default {
     dir: "./assets/portfolio",
     columns: 4,
     list: [
-      { name: "", src: "250320-protected-intensity-LOW-V2.png" },
-      { name: "", src: "푸름-protected-intensity-LOW-V2.png" },
-      { name: "", src: "blank.png" },
+     { name: "", src: "241031_안경소녀-protected-intensity-LOW-V2.png" }, 
+     { name: "", src: "푸름-protected-intensity-LOW-V2.png" },
+     { name: "", src: "250320-protected-intensity-LOW-V2.png" },
+     
+      
     ],
   },
 };
