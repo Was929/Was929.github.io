@@ -21,10 +21,9 @@ export default {
     dir: "./assets/portfolio",
     columns: 4,
     list: [
-     { name: "", src: "241031_안경소녀-protected-intensity-LOW-V2.png" }, 
-     { name: "", src: "푸름-protected-intensity-LOW-V2.png" },
-     { name: "", src: "250320-protected-intensity-LOW-V2.png" },
-     
+     { name: "", src: "assets/portfolio/251027_포폴.webp config.js" }, 
+     { name: "", src: "assets/portfolio/251128_포폴.webp" },
+     { name: "", src: "assets/portfolio/251202_포폴.webp" },
       
     ],
   },
