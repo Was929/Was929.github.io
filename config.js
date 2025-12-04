@@ -21,9 +21,9 @@ export default {
     dir: "./assets/portfolio",
     columns: 4,
     list: [
-     { name: "", src: "assets/portfolio/251027_포폴.webp config.js" }, 
-     { name: "", src: "assets/portfolio/251128_포폴.webp" },
-     { name: "", src: "assets/portfolio/251202_포폴.webp" },
+     { name: "", src: "251027_포폴.webp" }, 
+     { name: "", src: "251128_포폴.webp" },
+     { name: "", src: "251202_포폴.webp" },
       
     ],
   },
