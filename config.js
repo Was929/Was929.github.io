@@ -29,6 +29,8 @@ export default {
      { name: "", src: "260102_포폴.webp" },
      { name: "", src: "260223_포폴.webp" },
      { name: "", src: "260225_포폴.webp" },
+     { name: "", src: "260301_포폴.webp" },
+
       
     ],
   },
